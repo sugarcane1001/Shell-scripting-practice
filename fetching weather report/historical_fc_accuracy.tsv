@@ -1,0 +1,4 @@
+# echo -e "year\tmonth\tday\tobs_tmp\tfc_temp\taccuracy\taccuracy_range" > historical_fc_accuracy.tsv
+
+
+year	month	day	obs_tmp	fc_temp	accuracy	accuracy_range

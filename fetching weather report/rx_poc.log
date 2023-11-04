@@ -1,0 +1,6 @@
+# touch rx_poc.log
+# echo -e "year\tmonth\tday\thour\tobs_tmp\tfc_temp">rx_poc.log
+
+
+year	month	day	hour	obs_tmp	fc_temp
+  
